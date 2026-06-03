@@ -1,46 +1,49 @@
-# 🌸 Olá! Eu sou Maria Clara 👋
+# 🌸 Olá! Eu sou Maria Clara 
 
-Sou estudante de **Sistemas** e apaixonada por **design**, **desenvolvimento front-end** e **banco de dados**.
+Sou estudante de **Sistemas** e estagiária como desenvolvedora de software na Faculdade Senac Pernambuco.
 
-Gosto de unir **estética**, **usabilidade** e **organização de dados** para criar **interfaces intuitivas e funcionais**.  
-Me interessa todo o processo — **do visual à estrutura interna** — e busco sempre transformar ideias em soluções digitais **completas, coerentes e bem planejadas**.
+Atuo com foco em **Front-end Development**, criando interfaces modernas, responsivas e centradas na experiência do usuário.
 
----
-
-## 📍 Localização  
-**Recife – PE**
-
-## 💡 Curiosidades sobre mim  
-- Amo **leitura**  
-- Amo **gastronomia**
+Tenho interesse em **UI/UX Design**, buscando unir estética, usabilidade e funcionalidade na construção de soluções digitais.
 
 ---
 
-## 🎨 Tecnologias e Ferramentas
+## 🎯 O que me move
 
-### **Front-end**
-<div style="display: flex; gap: 12px; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-</div>
-
-### **Back-end**
-<div style="display: flex; gap: 12px; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pascal/pascal-original.svg" width="40"/>
-</div>
-
-### **Ferramentas e Ambiente**
-<div style="display: flex; gap: 12px; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40"/>
-</div>
+- 💻 Front-end Development  
+- 🎨 UI/UX Design  
+- ⚙️ Interfaces responsivas e funcionais  
+- 🧠 Aprendizado contínuo em tecnologia  
 
 ---
+
+## 🎨 Tecnologias
+
+### Front-end
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- React Native
+- TypeScript (em aprendizado)
+
+### UI/UX Design
+- Figma
+- Prototipação de interfaces
+- Design responsivo
+
+### Ferramentas
+- Git & GitHub
+- VS Code
+- Vite
+- Expo
+- Postman
+
+---
+
+## ✨ Sobre mim
+
+📍 Recife – PE  
+📚 Leitura  
+🍝 Gastronomia  
+🎨 Design minimalista e funcional
