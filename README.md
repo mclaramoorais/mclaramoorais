@@ -1,8 +1,6 @@
 # 🌸 Olá! Eu sou Maria Clara 
 
-Sou estudante de **Sistemas** e estagiária como desenvolvedora de software na Faculdade Senac Pernambuco.
-
-Atuo com foco em **Front-end Development**, criando interfaces modernas, responsivas e centradas na experiência do usuário.
+Atuo com foco em Front-end Development, desenvolvendo interfaces modernas, responsivas e centradas na experiência do usuário, aliando princípios de UI/UX Design para criar soluções digitais que combinam usabilidade e funcionalidade.
 
 Tenho interesse em **UI/UX Design**, buscando unir estética, usabilidade e funcionalidade na construção de soluções digitais.
 
